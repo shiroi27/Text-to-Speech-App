@@ -62,7 +62,6 @@ This project was part of my personal learning challenge to:
         • 💼 [GitHub: shiroi27](https://github.com/shiroi27)
         • 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
   
-
 ⸻
 
 📜 License
