@@ -48,7 +48,7 @@ It uses `Tkinter` for the GUI and `gTTS` (Google Text-to-Speech) to convert user
 
 🧠 About the Project
 
-This project was part of my personal learning challenge to:
+This project was part of my personal learning challenge to :
 	•	Practice GUI design in Python
 	•	Explore TTS integration
 	•	Complete real-world projects from scratch without relying on full tutorials
