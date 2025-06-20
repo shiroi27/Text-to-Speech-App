@@ -2,7 +2,7 @@
 
 ![App Preview](https://github.com/user-attachments/assets/0533d9e8-cb49-4e30-acea-26cb6594b8bf)
 
-This is a custom-built **Text-to-Speech (TTS)** desktop application made as part of my **#100DaysOfCode** challenge (Day 3).  
+This is a custom-built **Text-to-Speech (TTS)** desktop application made as part of my **Day 3 of my #100DaysOfCode challenge**  .  
 It uses `Tkinter` for the GUI and `gTTS` (Google Text-to-Speech) to convert user-input text into voice.
 
 ---
